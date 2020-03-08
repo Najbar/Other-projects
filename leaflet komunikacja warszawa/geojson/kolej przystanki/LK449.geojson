@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LK449",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "PKP Warszawa Mokry Ług", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>planowany przystanek osobowy<\/b><\/li>\n\n<\/ul>\n\n<u><b>Stan prac:<\/b><\/u>\n\n<ul>\n\n<li><b><i>patrz linia kolejowa nr 6 Zielonka - Wołomin<\/i><\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 21.17045814926065, 52.277833293056247, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Zielonka Bankowa", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek osobowy planowany do modernizacji<\/b><\/li>\n\n<\/ul>\n\n<u><b>Stan prac:<\/b><\/u>\n\n<ul>\n\n<li><b><i>patrz linia kolejowa nr 6 Zielonka - Wołomin<\/i><\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 21.147181, 52.300343, 0.0 ] } }
+]
+}

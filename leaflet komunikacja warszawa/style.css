@@ -1,0 +1,53 @@
+#map {
+	height: 100%;
+	width: 100%;
+}
+
+#okno {
+	z-index: 0;
+	position: absolute;
+	top: 30px;
+	right: 10px;
+	font-family: Verdana;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 26px;
+	background-color: rgb(255, 255, 255);
+	border-style: solid;
+	border-width: 1px;	
+}
+
+#opcje {
+	display: block;
+	font-size: 14px;
+}
+
+#header {
+	align-content: center;
+	font-weight: bold;
+	padding: 10px;
+	font-size: 11px;
+}
+
+#choice {
+	display: block;
+	align-content: center;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+#legenda {
+	padding: 5px;
+	z-index: 0;
+	position: absolute;
+	bottom: 26px;
+	right: 0px;"
+}
+
+#legenda1 {
+	font-family: Verdana;
+	font-size: 11px;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+

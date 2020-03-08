@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LK440",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "PKP Warszawa Lotnisko Chopina", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>stacja kolejowa na Lotnisku Chopina<\/b><\/li>\n\n<li><b>szczegóły: <a href=\"http:\/\/siskom.waw.pl\/kp-dworce.htm#mpl\">strona SISKOM<\/a><\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 20.973785398794689, 52.1697084121652, 0.0 ] } }
+]
+}

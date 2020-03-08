@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LK448",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "PKP Warszawa Rembertów", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>...<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0", "snippet": "" }, "geometry": { "type": "Point", "coordinates": [ 21.158691, 52.257126, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Warszawa Stadion", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy<\/b><\/li>\n\n<li><b>szczegóły: <a href=\"http:\/\/siskom.waw.pl\/kp-dworce.htm#stadion\">strona SISKOM<\/a><\/b><\/li>\n\n<\/ul>\n\n<u><b>Historia inwestycji:<\/b><\/u>\n\n<ul>\n\n\n<li><b>2012-05-05 - udostępnienie pasażerom odnowionego dworca<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 21.044083251807841, 52.244975750658909, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Warszawa Powiśle", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy po modernizacji<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 21.028212635805609, 52.233757901495203, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Warszawa Śródmieście", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy po modernizacji<\/b><\/li>\n\n<li><b>szczegóły: <a href=\"http:\/\/siskom.waw.pl\/kp-dworce.htm#srodmiescie\">strona SISKOM<\/a><\/b><\/li>\n\n<\/ul>\n\n<\/div>", "altitudeMode": "clampToSeaFloor", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 21.00838833695359, 52.229486309150708, 0.0 ] } }
+]
+}

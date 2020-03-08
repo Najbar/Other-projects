@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LK55",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "PKP Sokołów", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>...<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0", "snippet": "" }, "geometry": { "type": "Point", "coordinates": [ 22.22721, 52.41069, 0.0 ] } }
+]
+}

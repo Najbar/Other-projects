@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "LK10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "PKP Nieporęt", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy do modernizacji<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "altitudeMode": "clampToSeaFloor", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 21.03287115210507, 52.430540074546499, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Radzymin", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy do modernizacji<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "altitudeMode": "clampToSeaFloor", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 21.175808140576109, 52.424530247150599, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Dąbkowizna", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy do modernizacji<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 21.084985283389049, 52.423962537089487, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Legionowo Piaski", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>...<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 20.942359, 52.412365, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Wieliszew", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy do modernizacji<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 20.974944, 52.428222, 0.0 ] } }
+]
+}

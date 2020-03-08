@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LK4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "PKP Korytów", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy po modernizacji<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0", "snippet": "" }, "geometry": { "type": "Point", "coordinates": [ 20.495196, 52.021089, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Szeligi", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy do modernizacji<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 20.460835, 51.947491, 0.0 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LK21",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "PKP Warszawa Wileńska", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>stacja kolejowa po przebudowie<\/b><\/li>\n\n<li><b>stacja jest częścią centrum handlowego, wybudowana w latach 2000-2002<\/b><\/li>\n\n<li><b>szczegóły: <a href=\"http:\/\/siskom.waw.pl\/kp-dworce.htm#wilenska\">strona SISKOM<\/a><\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0", "snippet": "" }, "geometry": { "type": "Point", "coordinates": [ 21.037597, 52.255221, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Warszawa Stalowa (linia nr 21)", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>planowany przystanek osobowy<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 21.053954679447191, 52.262621967502497, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Warszawa Zacisze", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek osobowy w budowie<\/b><\/li>\n\n<li><b>szczegóły: <a href=\"http:\/\/siskom.waw.pl\/kp-dworce.htm#zacisze\">strona SISKOM<\/a><\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0" }, "geometry": { "type": "Point", "coordinates": [ 21.082554030662291, 52.279069557824691, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Ząbki", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy do modernizacji<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "0", "snippet": "" }, "geometry": { "type": "Point", "coordinates": [ 21.11355, 52.292465, 0.0 ] } }
+]
+}

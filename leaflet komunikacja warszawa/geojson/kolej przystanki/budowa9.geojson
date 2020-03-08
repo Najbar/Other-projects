@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "budowa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "PKP Stupsk Mazowiecki", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>...<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "-1", "snippet": "" }, "geometry": { "type": "Point", "coordinates": [ 20.43342, 53.021716, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Wyszyny", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy w trakcie modernizacji<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "-1", "snippet": "" }, "geometry": { "type": "Point", "coordinates": [ 20.392354, 53.059501, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Mława Miasto", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy w trakcie modernizacji<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "-1", "snippet": "" }, "geometry": { "type": "Point", "coordinates": [ 20.365791, 53.105179, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "PKP Mława", "description": "<br><div style=\"font-family:arial;font-size:10pt\">\n\n<u><b>Podstawowe informacje:<\/b><\/u>\n\n<ul>\n\n<li><b>przystanek kolejowy w trakcie modernizacji<\/b><\/li>\n\n<\/ul>\n\n<\/div>", "tessellate": "-1", "extrude": "0", "visibility": "-1", "snippet": "" }, "geometry": { "type": "Point", "coordinates": [ 20.350808, 53.126131, 0.0 ] } }
+]
+}
